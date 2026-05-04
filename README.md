@@ -16,4 +16,10 @@ Classes:
 
 <img width="830" height="268" alt="image" src="https://github.com/user-attachments/assets/8da686b8-d492-48c9-b76e-430016034bc7" />
 
+Training Results:
 
+<img width="380" height="297" alt="image" src="https://github.com/user-attachments/assets/831e0cd5-938f-4318-aa5a-c01cb00eb2ea" />
+
+Output:
+
+<img width="1643" height="534" alt="image" src="https://github.com/user-attachments/assets/e0cea4dd-a779-4a8b-b4ef-81a6cc7ec32f" />
