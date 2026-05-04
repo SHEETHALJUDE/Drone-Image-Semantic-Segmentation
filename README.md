@@ -1,4 +1,7 @@
 # Drone-Image-Semantic-Segmentation
-Semantic segmentation of aerial drone imagery into road, water &amp; vegetation using a custom U-Net · TensorFlow · Dice Loss · IoU evaluated
+A deep learning project that segments aerial/drone imagery into 4 land-cover classes — Road, Water, Green Land, and Background — using a custom U-Net architecture built with TensorFlow/Keras.
 
-deep-learning semantic-segmentation unet computer-vision tensorflow drone-imagery image-segmentation python remote-sensing
+📌 Problem Statement
+Manually analyzing drone or satellite imagery for land-cover mapping is time-consuming and error-prone. This project automates that process using semantic segmentation — assigning a class label to every pixel in an image — enabling applications in urban planning, flood monitoring, and environmental analysis.
+
+
